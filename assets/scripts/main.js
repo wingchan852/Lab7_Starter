@@ -63,6 +63,7 @@ function initializeServiceWorker() {
         console.log('Service worker registration failed');
       }
     })
+  }
   // STEPS B6 ONWARDS WILL BE IN /sw.js
 
 }
